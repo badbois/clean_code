@@ -5,6 +5,7 @@ cmake_policy(SET CMP0009 NEW)
 # MY_SOURCES at CMakeLists.txt:19 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/Users/admin/Documents/Cours/A2/clean_code/src/*")
 set(OLD_GLOB
+  "/Users/admin/Documents/Cours/A2/clean_code/src/.DS_Store"
   "/Users/admin/Documents/Cours/A2/clean_code/src/main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")

@@ -1,5 +1,7 @@
-CMakeFiles/SimpleCpp.dir/src/main.cpp.o: \
-  /Users/admin/Documents/Cours/A2/clean_code/src/main.cpp \
+CMakeFiles/SimpleCpp.dir/src/play_number_guesser.cpp.o: \
+  /Users/admin/Documents/Cours/A2/clean_code/src/play_number_guesser.cpp \
+  /Users/admin/Documents/Cours/A2/clean_code/src/play_number_guesser.hpp \
+  /Users/admin/Documents/Cours/A2/clean_code/src/get_users_input.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/pthread.h \
@@ -223,6 +225,7 @@ CMakeFiles/SimpleCpp.dir/src/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/bitset \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/__bit_reference \
+  /Users/admin/Documents/Cours/A2/clean_code/src/rand.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/random \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/cmath \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/math.h \
