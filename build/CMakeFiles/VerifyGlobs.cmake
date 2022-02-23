@@ -7,6 +7,7 @@ file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/Users/admin/Documents/Cours/
 set(OLD_GLOB
   "/Users/admin/Documents/Cours/A2/clean_code/src/.DS_Store"
   "/Users/admin/Documents/Cours/A2/clean_code/src/main.cpp"
+  "/Users/admin/Documents/Cours/A2/clean_code/src/random.hpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
