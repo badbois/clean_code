@@ -130,6 +130,30 @@ SimpleCpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SimpleCpp.dir/build.make CMakeFiles/SimpleCpp.dir/build
 .PHONY : SimpleCpp/fast
 
+src/guess_the_number.o: src/guess_the_number.cpp.o
+.PHONY : src/guess_the_number.o
+
+# target to build an object file
+src/guess_the_number.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SimpleCpp.dir/build.make CMakeFiles/SimpleCpp.dir/src/guess_the_number.cpp.o
+.PHONY : src/guess_the_number.cpp.o
+
+src/guess_the_number.i: src/guess_the_number.cpp.i
+.PHONY : src/guess_the_number.i
+
+# target to preprocess a source file
+src/guess_the_number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SimpleCpp.dir/build.make CMakeFiles/SimpleCpp.dir/src/guess_the_number.cpp.i
+.PHONY : src/guess_the_number.cpp.i
+
+src/guess_the_number.s: src/guess_the_number.cpp.s
+.PHONY : src/guess_the_number.s
+
+# target to generate assembly for a file
+src/guess_the_number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SimpleCpp.dir/build.make CMakeFiles/SimpleCpp.dir/src/guess_the_number.cpp.s
+.PHONY : src/guess_the_number.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -187,6 +211,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... SimpleCpp"
+	@echo "... src/guess_the_number.o"
+	@echo "... src/guess_the_number.i"
+	@echo "... src/guess_the_number.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

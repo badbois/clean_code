@@ -6,6 +6,8 @@ cmake_policy(SET CMP0009 NEW)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/Users/admin/Documents/Cours/A2/clean_code/src/*")
 set(OLD_GLOB
   "/Users/admin/Documents/Cours/A2/clean_code/src/.DS_Store"
+  "/Users/admin/Documents/Cours/A2/clean_code/src/guess_the_number.cpp"
+  "/Users/admin/Documents/Cours/A2/clean_code/src/guess_the_number.hpp"
   "/Users/admin/Documents/Cours/A2/clean_code/src/main.cpp"
   "/Users/admin/Documents/Cours/A2/clean_code/src/random.hpp"
   "/Users/admin/Documents/Cours/A2/clean_code/src/users_input.cpp"

@@ -1,5 +1,5 @@
-CMakeFiles/SimpleCpp.dir/src/main.cpp.o: \
-  /Users/admin/Documents/Cours/A2/clean_code/src/main.cpp \
+CMakeFiles/SimpleCpp.dir/src/guess_the_number.cpp.o: \
+  /Users/admin/Documents/Cours/A2/clean_code/src/guess_the_number.cpp \
   /Users/admin/Documents/Cours/A2/clean_code/src/guess_the_number.hpp \
   /Users/admin/Documents/Cours/A2/clean_code/src/random.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1/random \
