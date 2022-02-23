@@ -10,7 +10,6 @@ set(OLD_GLOB
   "/Users/admin/Documents/Cours/A2/clean_code/src/guess_the_number.hpp"
   "/Users/admin/Documents/Cours/A2/clean_code/src/main.cpp"
   "/Users/admin/Documents/Cours/A2/clean_code/src/random.hpp"
-  "/Users/admin/Documents/Cours/A2/clean_code/src/users_input.cpp"
   "/Users/admin/Documents/Cours/A2/clean_code/src/users_input.hpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")

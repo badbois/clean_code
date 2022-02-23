@@ -2,5 +2,9 @@
 
 #include <iostream>
 
-// Getting an int from the user
-int get_int_from_user();
+// Getting a value of type T from the user
+template <typename T> T get_value_from_user() {
+  T guessed_number;
+  std::cin >> guessed_number;
+  return guessed_number;
+};

@@ -6,14 +6,16 @@ void play_guess_the_number() {
   int number_to_guess = rand(MIN, MAX);
   std::cout << "I picked a number between " << MIN << " and " << MAX
             << std::endl;
-  int users_number = get_int_from_user();
-  while (users_number != number_to_guess) {
+  bool finnished = false;
+  while (!finnished) {
+    int users_number = get_value_from_user<int>();
     if (users_number > number_to_guess) {
       std::cout << "Smaller" << std::endl;
     } else if (users_number < number_to_guess) {
       std::cout << "Greater" << std::endl;
+    } else {
+      finnished = true;
     }
-    users_number = get_int_from_user();
   }
   std::cout << "Congrats, you won!" << std::endl;
 }

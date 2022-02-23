@@ -8,10 +8,5 @@
   "directory": "/Users/admin/Documents/Cours/A2/clean_code/build",
   "command": "/usr/bin/clang++  -I/Users/admin/Documents/Cours/A2/clean_code/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -mmacosx-version-min=11.2 -Werror -Wall -Wextra -Wpedantic -pedantic-errors -std=gnu++17 -o CMakeFiles/SimpleCpp.dir/src/main.cpp.o -c /Users/admin/Documents/Cours/A2/clean_code/src/main.cpp",
   "file": "/Users/admin/Documents/Cours/A2/clean_code/src/main.cpp"
-},
-{
-  "directory": "/Users/admin/Documents/Cours/A2/clean_code/build",
-  "command": "/usr/bin/clang++  -I/Users/admin/Documents/Cours/A2/clean_code/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -mmacosx-version-min=11.2 -Werror -Wall -Wextra -Wpedantic -pedantic-errors -std=gnu++17 -o CMakeFiles/SimpleCpp.dir/src/users_input.cpp.o -c /Users/admin/Documents/Cours/A2/clean_code/src/users_input.cpp",
-  "file": "/Users/admin/Documents/Cours/A2/clean_code/src/users_input.cpp"
 }
 ]

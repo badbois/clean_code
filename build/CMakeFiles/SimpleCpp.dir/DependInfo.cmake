@@ -10,7 +10,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/admin/Documents/Cours/A2/clean_code/src/guess_the_number.cpp" "CMakeFiles/SimpleCpp.dir/src/guess_the_number.cpp.o" "gcc" "CMakeFiles/SimpleCpp.dir/src/guess_the_number.cpp.o.d"
   "/Users/admin/Documents/Cours/A2/clean_code/src/main.cpp" "CMakeFiles/SimpleCpp.dir/src/main.cpp.o" "gcc" "CMakeFiles/SimpleCpp.dir/src/main.cpp.o.d"
-  "/Users/admin/Documents/Cours/A2/clean_code/src/users_input.cpp" "CMakeFiles/SimpleCpp.dir/src/users_input.cpp.o" "gcc" "CMakeFiles/SimpleCpp.dir/src/users_input.cpp.o.d"
   )
 
 # Targets to which this target links.
