@@ -154,6 +154,30 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SimpleCpp.dir/build.make CMakeFiles/SimpleCpp.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/users_input.o: src/users_input.cpp.o
+.PHONY : src/users_input.o
+
+# target to build an object file
+src/users_input.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SimpleCpp.dir/build.make CMakeFiles/SimpleCpp.dir/src/users_input.cpp.o
+.PHONY : src/users_input.cpp.o
+
+src/users_input.i: src/users_input.cpp.i
+.PHONY : src/users_input.i
+
+# target to preprocess a source file
+src/users_input.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SimpleCpp.dir/build.make CMakeFiles/SimpleCpp.dir/src/users_input.cpp.i
+.PHONY : src/users_input.cpp.i
+
+src/users_input.s: src/users_input.cpp.s
+.PHONY : src/users_input.s
+
+# target to generate assembly for a file
+src/users_input.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SimpleCpp.dir/build.make CMakeFiles/SimpleCpp.dir/src/users_input.cpp.s
+.PHONY : src/users_input.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -166,6 +190,9 @@ help:
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/users_input.o"
+	@echo "... src/users_input.i"
+	@echo "... src/users_input.s"
 .PHONY : help
 
 

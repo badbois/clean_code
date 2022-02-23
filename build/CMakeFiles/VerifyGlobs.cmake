@@ -8,6 +8,8 @@ set(OLD_GLOB
   "/Users/admin/Documents/Cours/A2/clean_code/src/.DS_Store"
   "/Users/admin/Documents/Cours/A2/clean_code/src/main.cpp"
   "/Users/admin/Documents/Cours/A2/clean_code/src/random.hpp"
+  "/Users/admin/Documents/Cours/A2/clean_code/src/users_input.cpp"
+  "/Users/admin/Documents/Cours/A2/clean_code/src/users_input.hpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

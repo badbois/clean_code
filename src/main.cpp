@@ -1,11 +1,6 @@
+#include "random.hpp"
+#include "users_input.hpp"
 #include <iostream>
-#include <random.hpp>
-
-int get_int_from_user() {
-  int guessed_number;
-  std::cin >> guessed_number;
-  return guessed_number;
-}
 
 void play_guess_the_number() {
   int MIN = 0;
