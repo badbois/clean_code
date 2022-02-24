@@ -9,7 +9,12 @@
 *  lesson 4 : ❌  
 *  lesson 5 : ❌
 
-Cheat sheet :
+Project ♨️ :
+-
+
+Guess the number is finnished with template function for the users input.
+
+Cheat sheet 📰 :
 -
 
 ### IDE : 
