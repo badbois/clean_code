@@ -1,3 +1,0 @@
-/Users/admin/Documents/Cours/A2/clean_code/build/CMakeFiles/rebuild_cache.dir
-/Users/admin/Documents/Cours/A2/clean_code/build/CMakeFiles/edit_cache.dir
-/Users/admin/Documents/Cours/A2/clean_code/build/CMakeFiles/SimpleCpp.dir
