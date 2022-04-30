@@ -22,6 +22,8 @@ Cheat sheet 📰 :
 * `ALT + O` Switch between .hpp and .cpp
 * `CTRL + SHIFT + F ` Global research in project
 * `CTRL + P ` Look for a specific file
+* `CMD + K`then `C` to put the selected text in comment
+* `CMD + K`then `U` to uncomment the selected text
   
 ### GLOBAL :
 
