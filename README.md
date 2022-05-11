@@ -24,6 +24,7 @@ Cheat sheet 📰 :
 * `CTRL + P ` Look for a specific file
 * `CMD + K`then `C` to put the selected text in comment
 * `CMD + K`then `U` to uncomment the selected text
+* `SHIFT + ALT + F` to format the code
   
 ### GLOBAL :
 
