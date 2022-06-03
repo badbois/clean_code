@@ -5,7 +5,18 @@
 
 *  lesson 1 : ✔️
 *  lesson 2 : ✔️  
-*  lesson 3 : ❌
+*  lesson 3 : 
+   *  std::vector ✔️
+   *  minimize dependency ✔️
+   *  strong type ✔️
+   *  master your IDE ✔️
+   *  const ✔️
+   *  don't overfocus on performance ✔️
+   *  git submodules ✔️
+   *  git pull request ✔️
+   *  CMake ✔️
+   *  State and strategy ✔️
+   *  std::variant ✔️
 *  lesson 4 : ❌  
 *  lesson 5 : ❌
 
